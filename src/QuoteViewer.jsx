@@ -1,4 +1,3 @@
-// Maaf kijiye! Main API ko bhul gaya tha. Yeh raha pura code API ke saath:
 
 import { useState, useEffect } from 'react';
 import "./index.css"
